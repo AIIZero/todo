@@ -1,0 +1,24 @@
+#message{
+     position: absolute;
+     top:0px;
+     width: 360px;
+     left: calc(50% - 180px);
+     border: 1px solid #c67605;
+     background: #f0ad4e;
+     min-height: 30px;
+     border-radius: 12px;
+     font-size: 24px;
+     color: #0f0f0f;
+     padding: 10px 15px;
+     font-weight: bold;
+     text-align: center;
+     display: none;
+}
+
+.noEdit{
+     border: 2px solid transparent;
+}
+
+#dialog{
+     display: none;
+}
